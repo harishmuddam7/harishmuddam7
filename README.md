@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=170&section=header&text=Harish%20Muddam&fontColor=38BDF8&fontSize=44&fontAlignY=45&desc=Azure%20Data%20Engineer
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=170&section=header&text=Harish%20Muddam&fontColor=38BDF8&fontSize=44&fontAlignY=45&desc=Azure%20Data%20Engineer)
 
 <div align="center">
 
