@@ -1,9 +1,9 @@
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=170&section=header&text=Harish%20Muddam&fontColor=38BDF8&fontSize=44&fontAlignY=45&desc=Azure%20Data%20Engineer%20%7C%20Lakehouse%20Architecture%20%7C%20DataOps&descAlignY=70&descColor=94A3B8&descSize=17)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=170&section=header&text=Harish%20Muddam&fontColor=38BDF8&fontSize=44&fontAlignY=45&desc=Azure%20Data%20Engineer
 
 <div align="center">
 
-### **Azure Data Engineer** · Enterprise Lakehouse Architecture & Production DataOps
-📍 Hyderabad, India &nbsp;|&nbsp; 🏢 4.6 Years at Tata Consultancy Services (TCS) &nbsp;|&nbsp; 💼 Open to Senior Data Engineer Roles
+### **Azure Data Engineer** 
+📍 Hyderabad, India &nbsp;|&nbsp; 🏢 4.6 Years at Tata Consultancy Services (TCS) &nbsp;|&nbsp; 💼 Open to Data Engineer Roles
 
 [![Email](https://img.shields.io/badge/Email-harishmuddam7%40gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:harishmuddam7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-harishmuddam7-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harishmuddam7)
