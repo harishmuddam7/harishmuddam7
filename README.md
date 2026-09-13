@@ -2,13 +2,13 @@
 
 <div align="center">
 
-### **Azure Data Engineer** 
+### **Azure Data Engineer** | Enterprise Lakehouse Platforms & Production DataOps
 📍 Hyderabad, India &nbsp;|&nbsp; 🏢 4.6 Years at Tata Consultancy Services (TCS) &nbsp;|&nbsp; 💼 Open to Data Engineer Roles
 
 [![Email](https://img.shields.io/badge/Email-harishmuddam7%40gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:harishmuddam7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-harishmuddam7-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harishmuddam7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harish_Muddam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-muddam-b46b361b0)
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-Visit_Site-238636?style=flat-square&logo=googlechrome&logoColor=white)](https://harishmuddam7.github.io)
+
 
 </div>
 
