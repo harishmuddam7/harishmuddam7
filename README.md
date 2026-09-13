@@ -23,16 +23,40 @@ Results-driven **Azure Data Engineer** with 4.6 years of enterprise experience m
 
 ---
 
-### **Technical Skills Grid**
+### **Technical Skills & Tooling**
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Cloud & Storage** | Microsoft Azure, ADLS Gen2, Azure Key Vault, Event Hubs, Azure Monitor |
-| **Big Data & Processing** | Apache Spark, PySpark, Spark SQL, Databricks Runtime, Delta Lake, Structured Streaming, Auto Loader |
-| **Orchestration & DevOps** | Azure Data Factory (ADF), Apache Airflow, Databricks Workflows, Azure DevOps, Git, Databricks Repos |
-| **Data Modeling & Governance**| Medallion Architecture, Star Schema, SCD Type 1/2, Unity Catalog, Delta Change Data Feed (CDF) |
-| **Diagnostics & Monitoring** | Spark UI (Event Logs, DAGs, Storage, Executors), Azure Log Analytics, RCA Generation |
-| **Languages & Analytics** | Python, SQL, PL/SQL, Bash, Streamlit, Plotly Express, Databricks SQL Connector |
+**Cloud & Platform**  
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![ADLS](https://img.shields.io/badge/ADLS_Gen2-008AD7?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Event Hubs](https://img.shields.io/badge/Azure_Event_Hubs-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**Data Processing & Lakehouse**  
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white)
+![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Languages & Querying**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+
+**Orchestration & DevOps**  
+![ADF](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Web UI, Serving & Monitoring**  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly_Express-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Spark UI](https://img.shields.io/badge/Spark_UI_Tuning-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
