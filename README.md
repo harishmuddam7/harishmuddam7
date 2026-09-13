@@ -17,9 +17,9 @@
 ### **Executive Summary**
 
 Results-driven **Azure Data Engineer** with 4.6 years of enterprise experience modernizing, scaling, and stabilizing mission-critical batch and streaming data platforms:
-* **Legacy Modernization:** Solely owned the migration and refactoring of **32 complex Oracle PL/SQL stored procedures** into distributed Databricks PySpark pipelines within a strict 2-month delivery window[cite: 1, 2].
-* **Production DataOps & Reliability:** Sustained **99.5%+ SLA compliance** across core pipelines; specialized in Spark UI diagnostics (OOM triaging, shuffle spills, executor skew, state-store repair)[cite: 1, 2].
-* **Lakehouse Systems:** Architect of Medallion Lakehouses (Bronze → Silver → Gold) leveraging Delta Lake, Auto Loader streaming, and interactive business interfaces via Streamlit[cite: 1, 2].
+* **Legacy Modernization:** Solely owned the migration and refactoring of **32 complex Oracle PL/SQL stored procedures** into distributed Databricks PySpark pipelines within a strict 2-month delivery window.
+* **Production DataOps & Reliability:** Sustained **99.5%+ SLA compliance** across core pipelines; specialized in Spark UI diagnostics (OOM triaging, shuffle spills, executor skew, state-store repair).
+* **Lakehouse Systems:** Architect of Medallion Lakehouses (Bronze → Silver → Gold) leveraging Delta Lake, Auto Loader streaming, and interactive business interfaces via Streamlit.
 
 ---
 
@@ -62,11 +62,11 @@ Results-driven **Azure Data Engineer** with 4.6 years of enterprise experience m
 ### **Featured Engineering Showcases**
 
 #### 🛡️ **[FinGuard – Lakehouse Fraud Detection & Analyst Operations Platform](https://github.com/harishmuddam7/finguard-lakehouse-fraud-detection)**
-*Production-grade streaming fraud detection engine and triage console built on Azure Databricks and Streamlit[cite: 1, 2].*
-* **Streaming Lakehouse Pipeline:** Ingests high-frequency transactions via Databricks Auto Loader into Bronze, joins broadcast dimensions in Silver, and executes distributed Isolation Forest anomaly scoring in Gold[cite: 1, 2].
-* **Streamlit Analyst Console:** Connects directly to Databricks Serverless SQL Warehouse via `databricks-sql-connector` to surface real-time KPIs ($5.05M risk exposure, 914 flags) and forensic case dossiers[cite: 1, 2].
-* **Closed-Loop Auditability:** Implements human-in-the-loop review actions (Freeze Account, Request 2FA, Mark False Positive) committed back to Gold tables with **Delta Change Data Feed (CDF)** for immutable compliance tracking[cite: 1, 2].
-* `Databricks` `Unity Catalog` `Delta Lake` `PySpark` `Streamlit` `Delta CDF` `Isolation Forest`[cite: 1, 2]
+*Production-grade streaming fraud detection engine and triage console built on Azure Databricks and Streamlit.*
+* **Streaming Lakehouse Pipeline:** Ingests high-frequency transactions via Databricks Auto Loader into Bronze, joins broadcast dimensions in Silver, and executes distributed Isolation Forest anomaly scoring in Gold.
+* **Streamlit Analyst Console:** Connects directly to Databricks Serverless SQL Warehouse via `databricks-sql-connector` to surface real-time KPIs ($5.05M risk exposure, 914 flags) and forensic case dossiers.
+* **Closed-Loop Auditability:** Implements human-in-the-loop review actions (Freeze Account, Request 2FA, Mark False Positive) committed back to Gold tables with **Delta Change Data Feed (CDF)** for immutable compliance tracking.
+* `Databricks` `Unity Catalog` `Delta Lake` `PySpark` `Streamlit` `Delta CDF` `Isolation Forest`
 
 #### 🏛️ **[AegisLake – Governed Data Mesh & Compliance-as-Code](https://github.com/harishmuddam7/aegislake-governed-mesh)**
 *Automated governance, metadata policy enforcement, and live control portal for Lakehouse deployments.*
@@ -78,9 +78,9 @@ Results-driven **Azure Data Engineer** with 4.6 years of enterprise experience m
 
 ### **Verified Credentials & Education**
 
-* **Microsoft Certified:** Azure Data Engineer Associate (`DP-203`)[cite: 1, 2]
-* **Databricks Certified:** Associate Data Engineer[cite: 1, 2]
-* **Bachelor of Technology (B.Tech):** MLR Institute of Technology (Affiliated with JNTUH), Class of 2020[cite: 1, 2]
+* **Microsoft Certified:** Azure Data Engineer Associate (`DP-203`)
+* **Databricks Certified:** Associate Data Engineer
+* **Bachelor of Technology (B.Tech):** MLR Institute of Technology (Affiliated with JNTUH), Class of 2020
 
 ---
 
