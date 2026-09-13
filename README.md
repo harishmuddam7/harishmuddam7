@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:10161D,100:1B2430&height=160&section=header&text=Harish%20Muddam&fontColor=C9A227&fontSize=46&fontAlignY=45&desc=Azure%20Data%20Engineer%20%7C%20Databricks%20%7C%20Lakehouse%20Engineering&descAlignY=68&descColor=8FA0B3&descSize=18)
+![Banner](./banner.svg)
 
 ### Azure Data Engineer · 4.6 years at TCS · Hyderabad, India
 
